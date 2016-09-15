@@ -1,5 +1,5 @@
 # Ubuntu dogtunnel 
-Update 2016-08-05(http://dog-tunnel.tk/   https://github.com/vzex/dog-tunnel/)
+Update 2016-08-05(http://dog-tunnel.tk/  or   https://github.com/vzex/dog-tunnel/)
 
 dog tunnel server:
 
